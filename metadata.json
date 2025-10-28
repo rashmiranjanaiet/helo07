@@ -1,0 +1,5 @@
+{
+  "name": "AI Skill to Job Matcher",
+  "description": "An AI-powered tool that takes a technical skill as input and provides a list of common job roles that require it, along with its demand and importance percentage in the industry. The analysis is powered by Gemini.",
+  "requestFramePermissions": []
+}
